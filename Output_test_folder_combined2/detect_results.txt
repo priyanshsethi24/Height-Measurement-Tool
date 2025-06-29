@@ -1,0 +1,67 @@
+
+Detection Results (Ceiling Height and AC Height):
+Photo 1 | ID imageA-1-0-0-0.jpg | Ceiling height 307.63cm | AC Height YYYY
+Photo 2 | ID imagea-2-0-0-0.jpg | Ceiling height XXXXXcm | AC Height YYYY
+Photo 3 | ID imageAA-1-0-0-0.jpg | Ceiling height 294.55cm | AC Height YYYY
+Photo 4 | ID imageAB-1-35-10-232.jpg | Ceiling height 301.83cm | AC Height P1: 221.12 cm, P2: 221.74 cm, P3: 232.87 cm
+Photo 5 | ID imageAC-1-70-17-259.jpg | Ceiling height 315.21cm | AC Height P1: 259.93 cm
+Photo 6 | ID imageAD-1-55-14-244.jpg | Ceiling height 321.85cm | AC Height P1: 244.62 cm
+Photo 7 | ID imageAE-1-63-18-297.jpg | Ceiling height 249.33cm | AC Height P1: 188.86 cm, P2: 264.87 cm, P3: 297.30 cm
+Photo 8 | ID imageAF-1-39-11-239.jpg | Ceiling height 245.54cm | AC Height P1: 239.71 cm
+Photo 9 | ID imageAG-1-38-38-225.jpg | Ceiling height 290.07cm | AC Height P1: 285.50 cm, P2: 225.72 cm
+Photo 10 | ID imageAH-1-87-20-288.jpg | Ceiling height XXXXXcm | AC Height P1: 288.14 cm
+Photo 11 | ID imageAI-1-0-0-0.jpg | Ceiling height 343.8cm | AC Height YYYY
+Photo 12 | ID imageAJ-1-49-23-304.jpg | Ceiling height 252.31cm | AC Height P1: 196.88 cm, P2: 240.71 cm, P3: 310.63 cm, P4: 304.83 cm
+Photo 13 | ID imageAK-1-193-193-221.jpg | Ceiling height 338.03cm | AC Height P1: 283.88 cm, P2: 261.45 cm, P3: 221.72 cm
+Photo 14 | ID imageAL-1-0-0-0.jpg | Ceiling height 294.54cm | AC Height YYYY
+Photo 15 | ID imageAM-1-0-0-0.jpg | Ceiling height 344.35cm | AC Height YYYY
+Photo 16 | ID imageAN-1-99-99-209.jpg | Ceiling height 361.76cm | AC Height P1: 209.12 cm
+Photo 17 | ID imageAO-1-46-46-190.jpg | Ceiling height 267.81cm | AC Height P1: 198.79 cm, P2: 190.49 cm
+Photo 18 | ID imageAP-1-0-0-0.jpg | Ceiling height 326.2cm | AC Height YYYY
+Photo 19 | ID imageAQ-1-0-0-0.jpg | Ceiling height 314.78cm | AC Height YYYY
+Photo 20 | ID imageAR-1-0-0-0.jpg | Ceiling height 328.73cm | AC Height YYYY
+Photo 21 | ID imageAS-1-25-17-259.jpg | Ceiling height 313.2cm | AC Height P1: 259.99 cm
+Photo 22 | ID imageAT-1-0-0-0.jpg | Ceiling height 262.62cm | AC Height YYYY
+Photo 23 | ID imageAU-1-0-0-0.jpg | Ceiling height 309.03cm | AC Height YYYY
+Photo 24 | ID imageAV-1-0-0-0.jpg | Ceiling height 330.6cm | AC Height YYYY
+Photo 25 | ID imageAW-1-0-0-0.jpg | Ceiling height 278.74cm | AC Height YYYY
+Photo 26 | ID imageAX-1-36-36-171.jpg | Ceiling height 251.77cm | AC Height P1: 171.46 cm
+Photo 27 | ID imageAY-1-39-10-231.jpg | Ceiling height 337.99cm | AC Height P1: 231.36 cm
+Photo 28 | ID imageAZ-1-13-10-150.jpg | Ceiling height 201.95cm | AC Height P1: 156.11 cm, P2: 150.84 cm
+Photo 29 | ID imageB-1-0-0-0.jpg | Ceiling height XXXXXcm | AC Height YYYY
+Photo 30 | ID imageb-2-0-0-0.jpg | Ceiling height XXXXXcm | AC Height P1: 0.00 cm
+Photo 31 | ID imageBA-1-17-8-210.jpg | Ceiling height 257.33cm | AC Height P1: 229.08 cm, P2: 210.54 cm
+Photo 32 | ID imageBB-1-33-6-175.jpg | Ceiling height XXXXXcm | AC Height P1: 175.31 cm
+Photo 33 | ID imageBC-2-0-0-0.jpg | Ceiling height XXXXXcm | AC Height YYYY
+Photo 34 | ID imageC-1-70-70-172.jpg | Ceiling height 304.52cm | AC Height P1: 178.82 cm, P2: 177.83 cm, P3: 172.88 cm
+Photo 35 | ID imagec-1-11-11-4.jpg | Ceiling height XXXXXcm | AC Height P1: 4.68 cm
+Photo 36 | ID imageD-1-148-148-221.jpg | Ceiling height 328.19cm | AC Height P1: 221.54 cm
+Photo 37 | ID imaged-2-0-0-0.jpg | Ceiling height XXXXXcm | AC Height YYYY
+Photo 38 | ID imageE-1-99-99-206.jpg | Ceiling height 368.68cm | AC Height P1: 268.74 cm, P2: 293.81 cm, P3: 206.23 cm
+Photo 39 | ID imageF-1-234-234-264.jpg | Ceiling height 351.96cm | AC Height P1: 264.63 cm
+Photo 40 | ID imageG-1-57-57-169.jpg | Ceiling height 321.48cm | AC Height P1: 169.25 cm
+Photo 41 | ID imageH-1-69-69-180.jpg | Ceiling height XXXXXcm | AC Height P1: 300.58 cm, P2: 180.27 cm
+Photo 42 | ID imageI-1-54-54-157.jpg | Ceiling height 298.92cm | AC Height P1: 195.42 cm, P2: 157.17 cm
+Photo 43 | ID imageJ-1-68-68-239.jpg | Ceiling height 379.23cm | AC Height P1: 258.73 cm, P2: 253.66 cm, P3: 208.79 cm, P4: 214.58 cm, P5: 239.91 cm
+Photo 44 | ID imageK-1-95-95-187.jpg | Ceiling height 314.87cm | AC Height P1: 195.40 cm, P2: 187.70 cm
+Photo 45 | ID imageL-1-0-0-0.jpg | Ceiling height XXXXXcm | AC Height YYYY
+Photo 46 | ID imageM-1-16-7-151.jpg | Ceiling height XXXXXcm | AC Height P1: 151.58 cm
+Photo 47 | ID imageN-1-17-9-248.jpg | Ceiling height 299.76cm | AC Height P1: 265.31 cm, P2: 248.61 cm
+Photo 48 | ID imageO-1-0-0-0.jpg | Ceiling height 300.99cm | AC Height YYYY
+Photo 49 | ID imageP-1-0-0-0.jpg | Ceiling height 322.66cm | AC Height YYYY
+Photo 50 | ID imageq-2-0-0-0.jpg | Ceiling height XXXXXcm | AC Height YYYY
+Photo 51 | ID imageQ-1-0-0-0.jpg | Ceiling height 305.17cm | AC Height YYYY
+Photo 52 | ID imageR-1-0-0-0.jpg | Ceiling height 285.68cm | AC Height YYYY
+Photo 53 | ID imager-2-0-0-0.jpg | Ceiling height XXXXXcm | AC Height YYYY
+Photo 54 | ID imageS-1-42-8-225.jpg | Ceiling height 264.61cm | AC Height P1: 232.16 cm, P2: 225.47 cm
+Photo 55 | ID imageT-1-0-0-0.jpg | Ceiling height 289.51cm | AC Height YYYY
+Photo 56 | ID imaget-2-0-0-0.jpg | Ceiling height XXXXXcm | AC Height P1: 0.00 cm
+Photo 57 | ID imageU-1-57-11-246.jpg | Ceiling height XXXXXcm | AC Height P1: 246.95 cm
+Photo 58 | ID imageV-1-0-0-0.jpg | Ceiling height 273.51cm | AC Height YYYY
+Photo 59 | ID imagev-2-0-0-0.jpg | Ceiling height XXXXXcm | AC Height YYYY
+Photo 60 | ID imageW-1-0-0-0.jpg | Ceiling height 323.06cm | AC Height YYYY
+Photo 61 | ID imageX-1-17-30-249.jpg | Ceiling height 272.63cm | AC Height P1: 219.83 cm, P2: 249.51 cm
+Photo 62 | ID imagex-2-0-0-0.jpg | Ceiling height XXXXXcm | AC Height YYYY
+Photo 63 | ID imageY-1-26-20-258.jpg | Ceiling height XXXXXcm | AC Height P1: 258.98 cm
+Photo 64 | ID imagey-2-0-0-0.jpg | Ceiling height XXXXXcm | AC Height YYYY
+Photo 65 | ID imageZ-1-0-0-0.jpg | Ceiling height 274.91cm | AC Height YYYY

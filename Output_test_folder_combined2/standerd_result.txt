@@ -1,0 +1,141 @@
+For only Coca-Cola bottle detection:
+imageAM 1-0-0-0
+imageAR 1-0-0-0
+imageAI 1-0-0-0
+imageR 1-0-0-0
+imageAU 1-0-0-0
+imageZ 1-0-0-0
+imageAA 1-0-0-0
+imageA 1-0-0-0
+imageQ 1-0-0-0
+imageAV 1-0-0-0
+imageP 1-0-0-0
+imageAP 1-0-0-0
+imageAQ 1-0-0-0
+imageAW 1-0-0-0
+imageAT 1-0-0-0
+imageL 1-0-0-0
+imageT 1-0-0-0
+imageO 1-0-0-0
+imageV 1-0-0-0
+imageB 1-0-0-0
+imageAL 1-0-0-0
+imageW 1-0-0-0
+
+For Coca-Cola bottle + round propeller:
+imageAK 1-193-193-221
+imageC 1-94-94-232
+imageD 1-148-148-221
+imageJ 1-68-68-239
+imageG 1-57-57-169
+imageK 1-95-95-187
+imageAG 1-38-38-225
+imageC 1-70-70-172
+imageAN 1-99-99-209
+imageH 1-69-69-180
+imageAX 1-36-36-171
+imageAO 1-46-46-190
+imageF 1-234-234-264
+imagec 1-11-11-4
+imageI 1-54-54-157
+imageE 1-99-99-206
+
+For Coca-Cola bottle + box propeller:
+imageAF 1-39-11-239
+imageAD 1-55-14-244
+imageAB 1-35-10-232
+imageAZ 1-13-10-150
+imageAS 1-25-17-259
+imageY 1-26-20-258
+imageU 1-57-11-246
+imageAE 1-63-18-297
+imageAC 1-70-17-259
+imageBA 1-17-8-210
+imageX 1-17-30-249
+imageS 1-42-8-225
+imageN 1-17-9-248
+imageAY 1-39-10-231
+imageAH 1-87-20-288
+imageBB 1-33-6-175
+imageAJ 1-49-23-304
+imageM 1-16-7-151
+
+For unknown detection (no valid coke bottle):
+imagea 2-0-0-0
+imageq 2-0-0-0
+imageb 2-0-0-0
+imageBC 2-0-0-0
+imaged 2-0-0-0
+imagex 2-0-0-0
+imaget 2-0-0-0
+imagev 2-0-0-0
+imager 2-0-0-0
+imagey 2-0-0-0
+
+Detection Results (Ceiling Height and AC Height):
+Photo imageAF | ID imageAF-1-39-11-239.jpg | Ceiling height 274.91cm | AC Height YYYY
+Photo imageAM | ID imageAM-1-0-0-0.jpg | Ceiling height 274.91cm | AC Height YYYY
+Photo imageAD | ID imageAD-1-55-14-244.jpg | Ceiling height 274.91cm | AC Height YYYY
+Photo imageAR | ID imageAR-1-0-0-0.jpg | Ceiling height 274.91cm | AC Height YYYY
+Photo imageAB | ID imageAB-1-35-10-232.jpg | Ceiling height 274.91cm | AC Height YYYY
+Photo imageAZ | ID imageAZ-1-13-10-150.jpg | Ceiling height 274.91cm | AC Height YYYY
+Photo imageAS | ID imageAS-1-25-17-259.jpg | Ceiling height 274.91cm | AC Height YYYY
+Photo imageAI | ID imageAI-1-0-0-0.jpg | Ceiling height 274.91cm | AC Height YYYY
+Photo imageY | ID imageY-1-26-20-258.jpg | Ceiling height 274.91cm | AC Height YYYY
+Photo imageR | ID imageR-1-0-0-0.jpg | Ceiling height 274.91cm | AC Height YYYY
+Photo imagea | ID imagea-2-0-0-0.jpg | Ceiling height 274.91cm | AC Height YYYY
+Photo imageq | ID imageq-2-0-0-0.jpg | Ceiling height 274.91cm | AC Height YYYY
+Photo imageAU | ID imageAU-1-0-0-0.jpg | Ceiling height 274.91cm | AC Height YYYY
+Photo imageAK | ID imageAK-1-193-193-221.jpg | Ceiling height 274.91cm | AC Height YYYY
+Photo imageZ | ID imageZ-1-0-0-0.jpg | Ceiling height 274.91cm | AC Height YYYY
+Photo imageAA | ID imageAA-1-0-0-0.jpg | Ceiling height 274.91cm | AC Height YYYY
+Photo imageA | ID imageA-1-0-0-0.jpg | Ceiling height 274.91cm | AC Height YYYY
+Photo imageb | ID imageb-2-0-0-0.jpg | Ceiling height 274.91cm | AC Height YYYY
+Photo imageU | ID imageU-1-57-11-246.jpg | Ceiling height 274.91cm | AC Height YYYY
+Photo imageAE | ID imageAE-1-63-18-297.jpg | Ceiling height 274.91cm | AC Height YYYY
+Photo imageAC | ID imageAC-1-70-17-259.jpg | Ceiling height 274.91cm | AC Height YYYY
+Photo imageQ | ID imageQ-1-0-0-0.jpg | Ceiling height 274.91cm | AC Height YYYY
+Photo imageC | ID imageC-1-94-94-232.jpg | Ceiling height 274.91cm | AC Height YYYY
+Photo imageBC | ID imageBC-2-0-0-0.jpg | Ceiling height 274.91cm | AC Height YYYY
+Photo imageAV | ID imageAV-1-0-0-0.jpg | Ceiling height 274.91cm | AC Height YYYY
+Photo imageBA | ID imageBA-1-17-8-210.jpg | Ceiling height 274.91cm | AC Height YYYY
+Photo imageP | ID imageP-1-0-0-0.jpg | Ceiling height 274.91cm | AC Height YYYY
+Photo imageD | ID imageD-1-148-148-221.jpg | Ceiling height 274.91cm | AC Height YYYY
+Photo imageAP | ID imageAP-1-0-0-0.jpg | Ceiling height 274.91cm | AC Height YYYY
+Photo imageJ | ID imageJ-1-68-68-239.jpg | Ceiling height 274.91cm | AC Height YYYY
+Photo imageG | ID imageG-1-57-57-169.jpg | Ceiling height 274.91cm | AC Height YYYY
+Photo imageAQ | ID imageAQ-1-0-0-0.jpg | Ceiling height 274.91cm | AC Height YYYY
+Photo imageK | ID imageK-1-95-95-187.jpg | Ceiling height 274.91cm | AC Height YYYY
+Photo imageAW | ID imageAW-1-0-0-0.jpg | Ceiling height 274.91cm | AC Height YYYY
+Photo imageAG | ID imageAG-1-38-38-225.jpg | Ceiling height 274.91cm | AC Height YYYY
+Photo imageC | ID imageC-1-70-70-172.jpg | Ceiling height 274.91cm | AC Height YYYY
+Photo imaged | ID imaged-2-0-0-0.jpg | Ceiling height 274.91cm | AC Height YYYY
+Photo imageAN | ID imageAN-1-99-99-209.jpg | Ceiling height 274.91cm | AC Height YYYY
+Photo imageX | ID imageX-1-17-30-249.jpg | Ceiling height 274.91cm | AC Height YYYY
+Photo imageS | ID imageS-1-42-8-225.jpg | Ceiling height 274.91cm | AC Height YYYY
+Photo imagex | ID imagex-2-0-0-0.jpg | Ceiling height 274.91cm | AC Height YYYY
+Photo imaget | ID imaget-2-0-0-0.jpg | Ceiling height 274.91cm | AC Height YYYY
+Photo imageN | ID imageN-1-17-9-248.jpg | Ceiling height 274.91cm | AC Height YYYY
+Photo imageAT | ID imageAT-1-0-0-0.jpg | Ceiling height 274.91cm | AC Height YYYY
+Photo imagev | ID imagev-2-0-0-0.jpg | Ceiling height 274.91cm | AC Height YYYY
+Photo imageL | ID imageL-1-0-0-0.jpg | Ceiling height 274.91cm | AC Height YYYY
+Photo imageT | ID imageT-1-0-0-0.jpg | Ceiling height 274.91cm | AC Height YYYY
+Photo imageAY | ID imageAY-1-39-10-231.jpg | Ceiling height 274.91cm | AC Height YYYY
+Photo imageO | ID imageO-1-0-0-0.jpg | Ceiling height 274.91cm | AC Height YYYY
+Photo imageV | ID imageV-1-0-0-0.jpg | Ceiling height 274.91cm | AC Height YYYY
+Photo imager | ID imager-2-0-0-0.jpg | Ceiling height 274.91cm | AC Height YYYY
+Photo imageAH | ID imageAH-1-87-20-288.jpg | Ceiling height 274.91cm | AC Height YYYY
+Photo imageBB | ID imageBB-1-33-6-175.jpg | Ceiling height 274.91cm | AC Height YYYY
+Photo imageH | ID imageH-1-69-69-180.jpg | Ceiling height 274.91cm | AC Height YYYY
+Photo imagey | ID imagey-2-0-0-0.jpg | Ceiling height 274.91cm | AC Height YYYY
+Photo imageAX | ID imageAX-1-36-36-171.jpg | Ceiling height 274.91cm | AC Height YYYY
+Photo imageAJ | ID imageAJ-1-49-23-304.jpg | Ceiling height 274.91cm | AC Height YYYY
+Photo imageAO | ID imageAO-1-46-46-190.jpg | Ceiling height 274.91cm | AC Height YYYY
+Photo imageB | ID imageB-1-0-0-0.jpg | Ceiling height 274.91cm | AC Height YYYY
+Photo imageF | ID imageF-1-234-234-264.jpg | Ceiling height 274.91cm | AC Height YYYY
+Photo imagec | ID imagec-1-11-11-4.jpg | Ceiling height 274.91cm | AC Height YYYY
+Photo imageI | ID imageI-1-54-54-157.jpg | Ceiling height 274.91cm | AC Height YYYY
+Photo imageM | ID imageM-1-16-7-151.jpg | Ceiling height 274.91cm | AC Height YYYY
+Photo imageAL | ID imageAL-1-0-0-0.jpg | Ceiling height 274.91cm | AC Height YYYY
+Photo imageW | ID imageW-1-0-0-0.jpg | Ceiling height 274.91cm | AC Height YYYY
+Photo imageE | ID imageE-1-99-99-206.jpg | Ceiling height 274.91cm | AC Height YYYY

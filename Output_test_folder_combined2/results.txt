@@ -1,0 +1,73 @@
+For only Coca-Cola bottle detection:
+imageAM 1-0-0-0
+imageAR 1-0-0-0
+imageAI 1-0-0-0
+imageR 1-0-0-0
+imageAU 1-0-0-0
+imageZ 1-0-0-0
+imageAA 1-0-0-0
+imageA 1-0-0-0
+imageQ 1-0-0-0
+imageAV 1-0-0-0
+imageP 1-0-0-0
+imageAP 1-0-0-0
+imageAQ 1-0-0-0
+imageAW 1-0-0-0
+imageAT 1-0-0-0
+imageL 1-0-0-0
+imageT 1-0-0-0
+imageO 1-0-0-0
+imageV 1-0-0-0
+imageB 1-0-0-0
+imageAL 1-0-0-0
+imageW 1-0-0-0
+
+For Coca-Cola bottle + round propeller:
+imageAK 1-193-193-221
+imageC 1-94-94-232
+imageD 1-148-148-221
+imageJ 1-68-68-239
+imageG 1-57-57-169
+imageK 1-95-95-187
+imageAG 1-38-38-225
+imageC 1-70-70-172
+imageAN 1-99-99-209
+imageH 1-69-69-180
+imageAX 1-36-36-171
+imageAO 1-46-46-190
+imageF 1-234-234-264
+imagec 1-11-11-4
+imageI 1-54-54-157
+imageE 1-99-99-206
+
+For Coca-Cola bottle + box propeller:
+imageAF 1-39-11-239
+imageAD 1-55-14-244
+imageAB 1-35-10-232
+imageAZ 1-13-10-150
+imageAS 1-25-17-259
+imageY 1-26-20-258
+imageU 1-57-11-246
+imageAE 1-63-18-297
+imageAC 1-70-17-259
+imageBA 1-17-8-210
+imageX 1-17-30-249
+imageS 1-42-8-225
+imageN 1-17-9-248
+imageAY 1-39-10-231
+imageAH 1-87-20-288
+imageBB 1-33-6-175
+imageAJ 1-49-23-304
+imageM 1-16-7-151
+
+For unknown detection (no valid coke bottle):
+imagea 2-0-0-0
+imageq 2-0-0-0
+imageb 2-0-0-0
+imageBC 2-0-0-0
+imaged 2-0-0-0
+imagex 2-0-0-0
+imaget 2-0-0-0
+imagev 2-0-0-0
+imager 2-0-0-0
+imagey 2-0-0-0
